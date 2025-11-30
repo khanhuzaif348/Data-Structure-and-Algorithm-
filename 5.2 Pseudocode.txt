@@ -1,0 +1,30 @@
+Pseudo code 
+  1 - A pseudo code is a simple way of describing an algorithm in plain language or a mix of code like and natural language instructions.
+  2 - It doesn't follow any specific programming language syntax , making it easier to understand , even for those without pro- knowledge.
+  3  -  Its s step often used to before writing actal code 
+
+  Pseudo code to find   sum of 2 number  
+
+
+ '''
+  Begin 
+      input first number 
+      input second number 
+
+      sum  = Firstnum + second number 
+      print sum 
+
+ end 
+ '''   
+
+ Process to solve a problem 
+
+  1. Analyze your Problem input ,Output , constarints
+  2. Break down problem into smalller subplots
+  3. Remember /enlist the concept.
+  4. Take 2-3 example -  Clear out confusion/gap
+  5. Write a pseudocode on a paper 
+  6. Dry run it.
+  7. Write down your solution.
+
+
