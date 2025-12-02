@@ -70,7 +70,7 @@ print(student_copy)
 
 
 
-## Iterate ove Dictionarys
+## Iterate over Dictionarys
 for key, value in my_dict.items():
     print(f"{key}: {value}")    
 

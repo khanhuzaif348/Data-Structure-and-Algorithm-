@@ -85,12 +85,12 @@ print(squared_tuple)  # Output: (0, 1, 4, 9, 16)
 # 4. Multiple Return Values
 # Practical Examples
 # Example 1: Using Tuples as Dictionary Keys
-location_coords = {
+location_code = {
     (40.7128, -74.0060): "New York",
     (34.0522, -118.2437): "Los Angeles",
     (41.8781, -87.6298): "Chicago"
 }
-print(location_coords[(40.7128, -74.0060)])  # Output: New York
+print(location_code[(40.7128, -74.0060)])  # Output: New York
 
 
 
